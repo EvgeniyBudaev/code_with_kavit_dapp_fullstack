@@ -78,3 +78,5 @@ npx hardhat help
 ```python
  npm run dev
 ``` 
+
+![Image alt](https://github.com/EvgeniyBudaev/code_with_kavit_dapp_fullstack/raw/main/client/public/readme.jpg)
