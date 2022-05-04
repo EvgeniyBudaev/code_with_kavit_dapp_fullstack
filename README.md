@@ -53,3 +53,28 @@ npx hardhat help
 ```python
  npx hardhat node
 ``` 
+
+- Инициализация frontend:
+
+```python
+ npx create-next-app -e with-tailwindcss client
+``` 
+
+- Установка зависимостей frontend:
+
+```python
+ cd client
+ npm i axios ethers
+``` 
+
+- frontend. Создаем и описываем config.js:
+
+```python
+ config.js
+``` 
+
+- Запустить frontend:
+
+```python
+ npm run dev
+``` 
