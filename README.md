@@ -2,11 +2,11 @@
 
 ## Содержание
 - [Описание_проекта](#Описание_проекта)
+- [Авторы](#Авторы)
 
 ### <a name="Описание_проекта">Описание</a>
 
 Solidity + Next.js. Соединение с кошельком. Получение и добавление книг.
-
 
 ### Порядок действий
 
@@ -72,5 +72,10 @@ Solidity + Next.js. Соединение с кошельком. Получени
 ```python
  npm run dev
 ``` 
+
+### <a name="Авторы">Авторы</a>
+```
+ Евгений Будаев
+```
 
 ![Image alt](https://github.com/EvgeniyBudaev/code_with_kavit_dapp_fullstack/raw/main/client/public/readme.jpg)
